@@ -1,0 +1,65 @@
+
+.rounded-circle{
+    border-radius: 5px;
+    border:20px;
+    margin-top: 20px;
+    
+    
+
+}
+@media screen and (max-width:700px){
+    .body{
+        width: 100%;
+    }
+}
+@media screen and (min-width:1000px){
+    .body{
+        width: 100%;
+    }
+}
+
+body{
+    font: 20px 'NetflixSans-Bold',Garamond bold, Arial, sans-serif;
+    background-color:#CEF6F5;
+    
+}
+.navbar{
+    background-color:#2ECCFA;  
+}
+
+.quemsomos{
+    background-color: #CEF6F5;
+    color:black;
+}
+.margin{
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+.quemsomos{
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+.corpotext{
+    background-color:#CEF6F5;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font: 20px'NetflixSans-Bold',Garamond bold, Arial, sans-serif;
+    color: black;
+    text-justify: distribute;
+    text-align: center;
+   
+
+}
+.logo:hover{
+      
+      cursor:pointer;
+     
+  }
+.rodape{
+    background-color:#CEF6F5;
+  }
+.bg-footer{
+    font: 22px Champignon;
+    background-color: #2ECCFA;
+    color: red;
+  }
